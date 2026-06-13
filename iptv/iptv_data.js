@@ -36,6 +36,10 @@ const iptv_list = [
         url: "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
+        name: "[America] BBC Earth US",
+        url: "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+    },
+    {
         name: "[America] Billboard TV",
         url: "https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8"
     },
@@ -74,5 +78,9 @@ const iptv_list = [
     {
         name: "[China] CGTN",
         url: "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+    },
+    {
+        name: "[Australia] Action Hollywood movies",
+        url: "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8"
     }
 ];
