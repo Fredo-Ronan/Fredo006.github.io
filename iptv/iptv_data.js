@@ -32,12 +32,16 @@ const iptv_list = [
         url: "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     },
     {
-        name: "[America] BBC Top Gear",
+        name: "[America] BBC Top Gear US",
         url: "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
         name: "[America] BBC Earth US",
         url: "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+    },
+    {
+        name: "[British UK] BBC Top Gear",
+        url: "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
     },
     {
         name: "[America] Billboard TV",
