@@ -1,2 +1,2 @@
-# Fredo006.github.io
-For dummy website testing
+# Fredo Tools 
+A place for my experimental utilities built based on curiosities.
